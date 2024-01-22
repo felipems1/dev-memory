@@ -1,3 +1,9 @@
+import { Home } from './pages/home'
+
 export function App() {
-  return <h1>Hello Word!</h1>
+  return (
+    <>
+      <Home />
+    </>
+  )
 }
