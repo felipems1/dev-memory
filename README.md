@@ -4,6 +4,8 @@
   <img src="./public/preview.png" alt="demonstração do projeto" >
 </div>
 
+<p align="center"><a href="https://dev-memory-alpha.vercel.app/">Ver Projeto</a></p>
+
 ## 1 - Sobre
 
 Jogo da Memória
